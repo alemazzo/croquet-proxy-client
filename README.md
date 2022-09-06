@@ -1,5 +1,5 @@
 # croquet-proxy-client
-A Java client for the Croquet proxy server.
+A Java client for the Croquet proxy.
 
 ## Usage
 1. Clone the repository
@@ -37,3 +37,5 @@ public class Main {
     }
 }
 ```
+5. Start the [croquet-proxy](https://github.com/alemazzo/croquet-proxy) server that run the Model
+6. Run the main class
